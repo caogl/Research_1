@@ -6,6 +6,7 @@ Research on COM-Poisson-Skellam Regression
 --Advisor: Kimberly F Sellers, Assistant Professor in Department of Mathematics and Statistics, Georgetwon University, Washington DC. contact: kfs7@georgetown.edu
 
 --To give a brief introduction of my work in the research:
+
 Prof. Sellers proposed a distribution called COM-Poisson Skellam distribution, which is used to model the difference of two groups of counting data with same dispersion parameters but different means. My job is to find and implement a method for regression analysis based on this distribution.
 
 --I'm in the research team of three. Prof. Sellers is the leader who derived the COM-Poisson-Skellam distribution and we have group meeting every week. Prof. Andew tried to apply bayesian modelling and I tried to derive the regression method based on this distribution.
